@@ -16,7 +16,7 @@
             continue;
         }
         rows[i].querySelector('.checkIn input').value = '09:00'
-        rows[i].querySelector('.checkOut input').value = '10:00'
+        rows[i].querySelector('.checkOut input').value = '18:00'
         } 
 
 })();
